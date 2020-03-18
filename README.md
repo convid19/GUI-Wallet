@@ -36,7 +36,7 @@ This wallet contains the basic functions required to manage your Viruses assets:
 ### Download &amp; Run WalletShell
 
 #### Windows:
-1. Download the latest installer here: https://github.com/turtlecoin/turtle-wallet-electron/releases/latest
+1. Download the latest installer here: https://github.com/convid19/GUI-Wallet.git/releases/latest
 2. Run the installer (`walletshell-<version>-win-setup.exe`) and follow the installation wizard.
 3. Launch WalletShell via start menu or desktop shortcut.
 
